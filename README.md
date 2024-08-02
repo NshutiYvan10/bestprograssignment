@@ -1,5 +1,5 @@
 
-                                                       Best Programming assignment 
+                                               Best Programming assignment 
                                                                        
 Names: Nshuti Ngabo Yvan
 ID: 25536
@@ -27,10 +27,15 @@ User Behavior Analysis: Logging can provide valuable data on how users interact 
 Logging levels are used to categorize and control the output of log messages based on their severity and importance. Common logging levels include:
 
 TRACE: Very detailed logging intended for diagnosing specific problems. Typically used by developers during the development process.
+
 DEBUG: Provides more granular information than higher levels, useful for debugging and understanding application flow. It’s often turned off in a production 
 environment to avoid verbose logging.
+
 INFO: General information about the application's execution. These messages highlight the progress of the application without being too verbose.
+
 WARN: Indicates potentially harmful situations. Warnings signal issues that do not currently affect the application’s operation but could cause problems in the future.
+
 ERROR: Records error events that might still allow the application to continue running. It indicates serious issues that need attention.
+
 FATAL: Severe error events that will presumably lead the application to abort. It represents critical failures that require immediate attention.
 
