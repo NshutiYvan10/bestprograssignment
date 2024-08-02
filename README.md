@@ -1,19 +1,19 @@
 
-                                                                         Best Programming assignment 
-                                                                         ===========================
+                                                       Best Programming assignment 
+                                                                       
 Names: Nshuti Ngabo Yvan
 ID: 25536
 
 
 
 1. What is Logging?
-====================
+
 Logging is the process of recording information about a program's execution for the purpose of monitoring, debugging, and analyzing its behavior.
 Logs capture a wide range of data such as status messages, error reports, and operational details that provide insights into the software's functioning.
 Developers use logging to trace program flow, identify issues, and understand the conditions under which certain events occur.
 
 2. Why Logging is Important
-============================
+
 Logging is crucial for several reasons:
 
 Debugging: Logs help developers track down and fix bugs by providing a detailed history of program execution and the sequence of events leading up to an error.
@@ -23,7 +23,7 @@ Performance Analysis: By analyzing logs, developers can identify performance bot
 Security: Logs help detect suspicious activities and potential security breaches, allowing for timely responses to threats.
 User Behavior Analysis: Logging can provide valuable data on how users interact with the application, guiding improvements and feature development.
 3. Understanding Logging Levels
-================================
+
 Logging levels are used to categorize and control the output of log messages based on their severity and importance. Common logging levels include:
 
 TRACE: Very detailed logging intended for diagnosing specific problems. Typically used by developers during the development process.
